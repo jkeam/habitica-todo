@@ -1,0 +1,15 @@
+{
+  "name": "habitica-todo",
+  "version": "1.0.0",
+  "description": "Alternative gui interface to the Habitica Todo.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jon Keam <jpkeam@gmail.com> (https://jonkeam.com)",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^8.1.0"
+  }
+}
