@@ -6,6 +6,10 @@
   "scripts": {
     "start": "electron ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkeam/habitica-todo.git"
+  },
   "author": "Jon Keam <jpkeam@gmail.com> (https://jonkeam.com)",
   "license": "MIT",
   "private": false,
